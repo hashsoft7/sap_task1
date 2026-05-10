@@ -1,0 +1,9 @@
+# Local ADT / Eclipse
+.project
+.settings/
+*.tmp
+*.log
+
+# OS
+Thumbs.db
+Desktop.ini
